@@ -1,7 +1,7 @@
 
 ---
 
-## 🧠 Weekly Goals
+# 🌐 Azure DevOps Practice Lab
 
 ### ✅ Week 1: Infra + Web Server
 - Provision VMs with Terraform & Bicep
