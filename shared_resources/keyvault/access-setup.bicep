@@ -1,0 +1,1 @@
+# Bicep script for Key Vault access
