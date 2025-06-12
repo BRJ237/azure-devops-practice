@@ -40,13 +40,6 @@
 
 ---
 
-## 📈 Progress Tracking
-
-All progress and tasks are tracked in [Notion](#) (link to your notion project if available).  
-Each weekly module is designed to be standalone and testable independently.
-
----
-
 ## 📬 Contact
 
 > Built with 💻 by Brahma Joshi as a self-learning project.  
